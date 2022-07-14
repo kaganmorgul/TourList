@@ -1,0 +1,10 @@
+.title h2 {
+  text-align: center;
+  border-bottom: 2px solid white;
+  width: 50%;
+  margin: auto;
+  padding: 10px 0px;
+  color: #fff;
+  width: 100%;
+  margin-bottom: 20px;
+}

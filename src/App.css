@@ -1,0 +1,13 @@
+.refresh-tours {
+  display: block;
+  margin: auto;
+  font-size: 14px;
+  background-color: transparent;
+  border: none;
+  background-color: rgba(0, 255, 255, 0.494);
+  padding: 10px 20px;
+  border-radius: 5px;
+  color: #fff;
+  transition: all 0.5s;
+  font-weight: bold;
+}
